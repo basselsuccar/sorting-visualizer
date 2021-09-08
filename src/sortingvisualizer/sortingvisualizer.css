@@ -1,0 +1,26 @@
+*{
+    background-color: dimgrey;
+}
+
+.arraybar-container {
+    position: absolute;
+    left: 100px;
+    /* top: 100px; */
+  }
+  
+  .array-bar {
+    width: 2px;
+    display: inline-block;
+    margin: 0 1px;
+  }
+  button{
+      background-color: black;
+      color: blanchedalmond;
+     flex-grow: 2;
+  }
+  nav{
+      background-color: darkred;
+     
+      display:flex;
+      flex-direction:row;
+  }
